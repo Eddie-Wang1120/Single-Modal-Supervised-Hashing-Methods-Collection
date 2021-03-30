@@ -15,6 +15,10 @@ Yaxiong Chena, Xiaoqiang Lu, Xuelong Li."Supervised deep hashing with a joint de
 [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301710)
 [[code]](https://github.com/fchollet/keras)
 
+Yaxiong Chen, Xiaoqiang Lu, Xuelong Li"Supervised deep hashing with a joint deep network"
+(2020)Pattern Recognition
+[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301710)
+
 Hongjia Zhai, Shenqi Lai, Hanyang Jin, Xueming Qian, Tao Mei."Deep Transfer Hashing for Image Retrieval"
 (2020)Ieee Transcations On Circuits And Systems For Video Technology
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9082051)
@@ -43,6 +47,7 @@ Ziwei Wang, Quan Zheng, Jiwen Lu, and Jie Zhou."Deep Hashing with Active Pairwis
 (2020)ECCV
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_31)
 
+
 ## 2019 Papers
 Yudong Chen, Zhihui Lai, Yujuan Ding, Kaiyi Lin, Wai Keung Wong."Deep Supervised Hashing With Anchor Graph"
 (2019)ICCV
@@ -59,6 +64,39 @@ Xueni Zhang, Lei Zhou, Xiao Bai, Xiushu Luan, Jie Luo, Edwin R.Hancock."Deep sup
 Xin Luo, Peng-Fei Zhang, Zi Huang, Liqiang Nie, Xin-Shun Xu."Discrete Hashing With Multiple Supervision"
 (2019)IEEE Transactions on Image Processing
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8610117)
+
+Dayan Wu, Qi Dai, Jing Liu, Bo Li, Weiping Wang."Deep Incremental Hashing Network for Efficient Image Retrieval"
+(2019)CVPR
+[[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Deep_Incremental_Hashing_Network_for_Efficient_Image_Retrieval_CVPR_2019_paper.html)
+
+Yujuan Ding, Wai Kueng Wong, Zhihui Lai, Zheng Zhang."Bilinear Supervised Hashing Based on 2D Image Features"
+(2019)IEEE Transactions on Circuits and Systems for Video Technology
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8604087)
+
+Jiehao Xu, Chengyu Guo, Qingjie Liu, Jie Qin, Yunhong Wang, Li Liu."DHA: Supervised Deep Learning to Hash with an Adaptive Loss Function"
+(2019)Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)
+[[pdf]](https://openaccess.thecvf.com/content_ICCVW_2019/html/CEFRL/Xu_DHA_Supervised_Deep_Learning_to_Hash_with_an_Adaptive_Loss_ICCVW_2019_paper.html)
+
+Qing Ma, Cong Bai, Jinglin Zhang, Zhi Liu, Shengyong Chen."Supervised learning based discrete hashing for image retrieval"
+(2019)Pattern Recognition
+[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003132031930130X)
+
+Vijetha Gattupalli, Yaoxin Zhuo, Baoxin Li."Weakly Supervised Deep Image Hashing Through Tag Embeddings"
+(2019)Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+[[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/html/Gattupalli_Weakly_Supervised_Deep_Image_Hashing_Through_Tag_Embeddings_CVPR_2019_paper.html)
+
+Xingbo Liu, Xiushan Nie, Quan Zhou, Xiaoming Xi, Lei Zhu, Yilong Yin."Supervised Short-Length Hashing"
+(2019)IJCAI-19
+[[pdf]](https://www.ijcai.org/proceedings/2019/420)
+
+Xingbo Liu, Xiushan Nie, Quan Zhou, Yilong Yin."Supervised Discrete Hashing With Mutual Linear Regression"
+(2019)Proceedings of the 27th ACM International Conference on Multimedia
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/3343031.3351091)
+
+Zheng Zhang, Zhihui Lai, Zi Huang, Wai Keung Wong, Guo-Sen Xie, Li Liu, Ling Shao."Scalable Supervised Asymmetric Hashing With Semantic and Latent Factor Embedding"
+(2019)IEEE Transactions on Image Processing
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8709760)
+
 
 
 
