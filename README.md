@@ -1,5 +1,5 @@
 # Single-Modal-Supervised-Hashing-Methods-Collection
-A comprehensive list of recent papers about single-modal supervised hashing methods.
+A comprehensive list of recent papers and some of classical papers about single-modal supervised hashing methods.
 
 ## 2020 Papers
 Xiangdong Lin, Wei Zou*, Nan Hu, Jiajun Wang."An Improved Deep Supervised Hashing Method for Hamming Space Retrieval" 
