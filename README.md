@@ -43,6 +43,25 @@ Ziwei Wang, Quan Zheng, Jiwen Lu, and Jie Zhou."Deep Hashing with Active Pairwis
 (2020)ECCV
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_31)
 
+## 2019 Papers
+Yudong Chen, Zhihui Lai, Yujuan Ding, Kaiyi Lin, Wai Keung Wong."Deep Supervised Hashing With Anchor Graph"
+(2019)ICCV
+[[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Deep_Supervised_Hashing_With_Anchor_Graph_ICCV_2019_paper.html)
+
+Cheng Deng, Erkun Yang, Tongliang Liu, Dacheng Tao."Two-Stream Deep Hashing With Class-Specific Centers for Supervised Image Search"
+(2019)IEEE Transactions on Neural Networks and learning systems
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8833511/authors#authors)
+
+Xueni Zhang, Lei Zhou, Xiao Bai, Xiushu Luan, Jie Luo, Edwin R.Hancock."Deep supervised hashing using symmetric relative entropy"
+(2019)Pattern Recognition
+[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302016)
+
+Xin Luo, Peng-Fei Zhang, Zi Huang, Liqiang Nie, Xin-Shun Xu."Discrete Hashing With Multiple Supervision"
+(2019)IEEE Transactions on Image Processing
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8610117)
+
+
+
 ## Classic Papers
 Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen."Supervised Discrete Hashing"
 (2015)Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
@@ -60,5 +79,14 @@ Xin Luo, Liqiang Nie, Xiangnan He, Ye Wu, Zhen-Duo Chen, Xin-Shun Xu."Fast Scala
 ## Other Resources
 THE MNIST DATABASE of handwritten digits 
 [[link]](http://yann.lecun.com/exdb/mnist/)
+
+Fashion-MINIST
+[[link]](https://github.com/zalandoresearch/fashion-mnist)
+
+CIFAR
+[[link]](http://www.cs.toronto.edu/kriz/cifar.html)
+
+NUS-WIDE
+[[link]](http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm)
 
 
