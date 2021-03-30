@@ -39,6 +39,8 @@ Zechao Li, Jinhui Tang, Liyan Zhang, Jian Yang."Weakly-supervised semantic guide
 (2020)International Journal of Computer Vision, 2020
 [[pdf]](https://link.springer.com/article/10.1007%2Fs11263-020-01331-0)
 
-
+## Other Resources
+THE MNIST DATABASE of handwritten digits 
+[[link]](http://yann.lecun.com/exdb/mnist/)
 
 
