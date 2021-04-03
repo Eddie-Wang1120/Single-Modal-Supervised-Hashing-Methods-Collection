@@ -141,4 +141,7 @@ CIFAR
 NUS-WIDE
 [[link]](http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm)
 
+Animals With Attributes
+[[link]](https://cvml.ist.ac.at/AwA/)
+
 
