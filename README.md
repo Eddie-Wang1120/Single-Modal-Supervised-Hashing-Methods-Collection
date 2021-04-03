@@ -97,8 +97,22 @@ Zheng Zhang, Zhihui Lai, Zi Huang, Wai Keung Wong, Guo-Sen Xie, Li Liu, Ling Sha
 (2019)IEEE Transactions on Image Processing
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8709760)
 
+## 2018 Papers
+Qing-Yuan Jiang, Wu-Jun Li."Asymmetric Deep Supervised Hashing"
+(2018)AAAI Conference on Artificial Intelligence
+[[pdf]]https://ojs.aaai.org/index.php/AAAI/article/view/11814
 
+Qing-Yuan Jiang, Xue Cui, Wu-Jun Li."Deep Discrete Supervised Hashing"
+(2018)IEEE Transactions on Image Processing
+[[pdf]]https://ieeexplore.ieee.org/abstract/document/8432451
 
+Jinhui Tang, Zechao Li, Xiang Zhu."Supervised deep hashing for scalable face image retrieval"
+(2018)Pattern Recognition
+[[pdf]]https://www.sciencedirect.com/science/article/abs/pii/S0031320317301383
+
+Xin Luo, Ye Wu, Xinshun Xu."Scalable Supervised Discrete Hashing for Large-Scale Search"
+(2018)International World Wide Web Conferences
+[[pdf]]https://dl.acm.org/doi/abs/10.1145/3178876.3186072
 
 ## Classic Papers
 Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen."Supervised Discrete Hashing"
