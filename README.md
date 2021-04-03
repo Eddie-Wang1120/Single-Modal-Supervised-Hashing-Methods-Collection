@@ -127,6 +127,7 @@ Wang-Cheng Kang, Wu-Jun Li, Zhi-Hua Zhou."Column Sampling Based Discrete Supervi
 Xin Luo, Liqiang Nie, Xiangnan He, Ye Wu, Zhen-Duo Chen, Xin-Shun Xu."Fast Scalable Supervised Hashing"
 (2018)International Conference on Research on Development in Information Retrieval
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3209978.3210035)
+[[code]](https://lcbwlx.wixsite.com/fssh)
 
 ## Other Resources
 THE MNIST DATABASE of handwritten digits 
