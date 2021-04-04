@@ -115,6 +115,10 @@ Xin Luo, Ye Wu, Xinshun Xu."Scalable Supervised Discrete Hashing for Large-Scale
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3178876.3186072)
 
 ## Classic Papers
+Peichao Zhang, Wei Zhang, Wujun Li,Minyi Guo."Supervised hashing with latent factor models"
+(2014)International Conference on Research on Development in Information Retrieval
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/2600428.2609600)
+
 Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen."Supervised Discrete Hashing"
 (2015)Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
 [[pdf]](https://openaccess.thecvf.com/content_cvpr_2015/html/Shen_Supervised_Discrete_Hashing_2015_CVPR_paper.html)
@@ -123,6 +127,10 @@ Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen."Supervised Discrete Hashing"
 Wang-Cheng Kang, Wu-Jun Li, Zhi-Hua Zhou."Column Sampling Based Discrete Supervised Hashing"
 (2016)Proceedings of the AAAI Conference on Artificial Intelligence
 [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/10176)
+
+Jie Gui, Tongliang Liu, Zhenan Sun, Dacheng Tao, Tieniu Tan."Fast Supervised Discrete Hashing"
+(2017)IEEE Trans on Pattern Analysis and Machine Intelligence
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/7873258)
 
 Xin Luo, Liqiang Nie, Xiangnan He, Ye Wu, Zhen-Duo Chen, Xin-Shun Xu."Fast Scalable Supervised Hashing"
 (2018)International Conference on Research on Development in Information Retrieval
