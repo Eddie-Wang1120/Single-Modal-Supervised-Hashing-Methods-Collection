@@ -1,6 +1,12 @@
 # Single-Modal-Supervised-Hashing-Methods-Collection
 A comprehensive list of recent papers and some of classical papers about single-modal supervised hashing methods.
 
+## 2021 Papers
+Zheng Zhang, Xiaofeng Zhu, Guangming Lu, Yudong Zhang."Probability Ordinal-Preserving Semantic Hashing for Large-Scale Image Retrieval"
+(2021)ACM Transactions on Knowledge Discovery from Data
+[[pdf]](https://dl.acm.org/doi/abs/10.1145/3442204)
+[[code]](https://github.com/DarrenZZhang/POSH)
+
 ## 2020 Papers
 Yong Chen, Zhibao Tian, Hui Zhang, Jun Wang, Dell Zhang."Strongly Constrained Discrete Hashing"
 (2020)IEEE Transactions on Image Processing
