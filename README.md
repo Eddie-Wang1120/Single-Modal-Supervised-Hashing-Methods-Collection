@@ -5,6 +5,7 @@ A comprehensive list of recent papers and some of classical papers about single-
 Yong Chen, Zhibao Tian, Hui Zhang, Jun Wang, Dell Zhang."Strongly Constrained Discrete Hashing"
 (2020)IEEE Transactions on Image Processing
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8954880)
+[[code]](https://github.com/keneeth/scdh)
 
 Yong Chen, Zhibao Tian, Hui Zhang, Jun Wang, Dell Zhang."Reinforced Short-Length Hashing"
 (2020)IEEE Transactions on Circuits and Systems for Video Technology
