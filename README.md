@@ -2,6 +2,14 @@
 A comprehensive list of recent papers and some of classical papers about single-modal supervised hashing methods.
 
 ## 2020 Papers
+Yong Chen, Zhibao Tian, Hui Zhang, Jun Wang, Dell Zhang."Strongly Constrained Discrete Hashing"
+(2020)IEEE Transactions on Image Processing
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/8954880)
+
+Yong Chen, Zhibao Tian, Hui Zhang, Jun Wang, Dell Zhang."Reinforced Short-Length Hashing"
+(2020)IEEE Transactions on Circuits and Systems for Video Technology
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/9272364)
+
 Xiangdong Lin, Wei Zou*, Nan Hu, Jiajun Wang."An Improved Deep Supervised Hashing Method for Hamming Space Retrieval" 
 (2020)International Conference on Computer and Communications
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9345161/)
@@ -14,10 +22,6 @@ Yaxiong Chena, Xiaoqiang Lu, Xuelong Li."Supervised deep hashing with a joint de
 (2020)Pattern Recognition
 [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301710)
 [[code]](https://github.com/fchollet/keras)
-
-Yaxiong Chen, Xiaoqiang Lu, Xuelong Li"Supervised deep hashing with a joint deep network"
-(2020)Pattern Recognition
-[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301710)
 
 Hongjia Zhai, Shenqi Lai, Hanyang Jin, Xueming Qian, Tao Mei."Deep Transfer Hashing for Image Retrieval"
 (2020)IEEE Transcations On Circuits And Systems For Video Technology
@@ -49,6 +53,10 @@ Ziwei Wang, Quan Zheng, Jiwen Lu, and Jie Zhou."Deep Hashing with Active Pairwis
 
 
 ## 2019 Papers
+Zheng Zhang, Guo-sen Xie, Yang Li, Sheng Li, Zi Huang."SADIH: Semantic-Aware DIscrete Hashing"
+(2019)Proceedings of the AAAI Conference on Artificial Intelligence
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/4534)
+
 Yudong Chen, Zhihui Lai, Yujuan Ding, Kaiyi Lin, Wai Keung Wong."Deep Supervised Hashing With Anchor Graph"
 (2019)International Conference on Computer Vision
 [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Deep_Supervised_Hashing_With_Anchor_Graph_ICCV_2019_paper.html)
