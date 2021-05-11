@@ -1,5 +1,6 @@
 # Single-Modal-Supervised-Hashing-Methods-Collection
 A comprehensive list of recent papers and some of classical papers about single-modal supervised hashing methods.
+I also made a frame for single-model supervised hashing methods, which can draw mAP curves and Time curves for 10 different methods in diverse bit number. The name is [single-modal-supervised-hashing-baseline-for-image-retrieval](https://github.com/Eddie-Wang1120/single-modal-supervised-hashing-baseline-for-image-retrieval). Click the name if you want to check it out.
 
 ## 2021 Papers
 Zheng Zhang, Xiaofeng Zhu, Guangming Lu, Yudong Zhang."Probability Ordinal-Preserving Semantic Hashing for Large-Scale Image Retrieval"
