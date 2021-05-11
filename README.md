@@ -130,6 +130,10 @@ Xin Luo, Ye Wu, Xinshun Xu."Scalable Supervised Discrete Hashing for Large-Scale
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/3178876.3186072)
 
 ## Classic Papers
+Wei Liu, Jun Wang, Rongrong Ji, Yu-Gang Jiang, Shih-Fu Chang."Supervised hashing with kernels"
+(2012)IEEE Conference on Computer Vision and Pattern Recognition
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/6247912)
+
 Peichao Zhang, Wei Zhang, Wujun Li,Minyi Guo."Supervised hashing with latent factor models"
 (2014)International Conference on Research on Development in Information Retrieval
 [[pdf]](https://dl.acm.org/doi/abs/10.1145/2600428.2609600)
